@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "optimizedList",
-    "slug": "optimizedList",
+    "name": "Optimized List",
+    "slug": "optimized-list",
+    "description": "This is a React Native Optimized-List App.",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/CheckListLogo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/CheckListLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
